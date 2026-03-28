@@ -107,7 +107,7 @@ FUTURE_PE_03
 │   ├── cluster-accuracy.md
 │   ├── cluster-who.md
 ├── assets/                 # Visuals & diagrams
-│   └── content-flow-diagram.png
+│   └── content-flow-diagram.txt
 
 ```
 ---
