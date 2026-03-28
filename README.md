@@ -86,7 +86,8 @@ The system builds an **AI-driven SEO Engine** that generates:
 ## Repository Structure
 
 ```
-FUTURE_PE_03_ADVANCED/
+FUTURE_PE_03
+|
 ├── README.md
 ├── prompts/                # Prompt templates for AI content generation
 │   ├── keyword_research_system.md
