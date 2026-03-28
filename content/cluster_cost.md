@@ -1,6 +1,7 @@
 # Cost of Genetic Testing in Hyderabad
 
 Genetic testing can provide vital information about hereditary conditions, prenatal health, and preventive care. Understanding the cost of genetic tests in Hyderabad is essential for making informed decisions.
+
 ---
 ## Factors Affecting Cost
 - **Type of Test:** Basic DNA tests are cheaper than comprehensive health screenings  
@@ -32,7 +33,8 @@ Genetic testing can provide vital information about hereditary conditions, prena
 **A1:** Not always. Always check lab certifications and reviews.  
 
 **Q2:** Can I pay in installments?  
-**A2:** Some labs provide flexible payment options.  
+**A2:** Some labs provide flexible payment options. 
+
 ---
 ## Conclusion
 Understanding the cost factors helps you plan and choose the right genetic testing service in Hyderabad. Proper research ensures affordability without compromising accuracy.
